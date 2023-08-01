@@ -106,8 +106,12 @@ You are required to submit BOTH of the following for review:
 - - -
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
 
-Here is a screenshot of my deployed application;
+
 
 Here is a link to my deployed application; 
 
-Here is a link to the source code;
+Here is a link to the source code; https://github.com/jason82autotech/Portfolio-Page
+
+Here is a screenshot of my deployed application;
+
+![alt text](./assets/images/Screenshot-portfolio.png)

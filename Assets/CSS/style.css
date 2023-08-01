@@ -124,8 +124,8 @@ header nav ul li a:hover {
     display: flex;
     justify-content: space-between;
     background-color: var(--primary);
-    background-image: url("Oregon.jpg");
-    background-repeat: norepeat;
+    background-image: url("./assets/images/oregon.jpg");
+    background-repeat:repeat;
 }
 
 .my-work h2 {
