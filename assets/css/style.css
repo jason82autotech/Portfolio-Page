@@ -123,8 +123,10 @@ header nav ul li a:hover {
     display: flex;
     justify-content: space-between;
     background-color: var(--primary);
-    background-image: url("assets/images/Oregon.jpg");
-    background-repeat: repeat;
+    background-image: url("../images/oregon.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
 .my-work h2 {
