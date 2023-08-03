@@ -1,4 +1,3 @@
-
 :root {
     --primary: #0734bb;
     --secondary: #6f7174;
@@ -124,8 +123,8 @@ header nav ul li a:hover {
     display: flex;
     justify-content: space-between;
     background-color: var(--primary);
-    background-image: url("./assets/images/Oregon.jpg");
-    background-repeat:repeat;
+    background-image: url("assets/images/Oregon.jpg");
+    background-repeat: repeat;
 }
 
 .my-work h2 {
