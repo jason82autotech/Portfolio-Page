@@ -116,4 +116,4 @@ Here is a link to the source code;
 
 Here is a screenshot of my deployed application; 
 
-![Screen shot of deployed application](./assets/images/screenshot-portfolio.png)
+![Screen shot of deployed application](assets/images/screenshot-portfolio.png)
